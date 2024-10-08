@@ -1,6 +1,1 @@
-streamlit
-openai
-requests
-Pillow
-audio-recorder-streamlit
-edge-tts
+
